@@ -24,6 +24,21 @@ Tool Berbasis Web Untuk membuat Laporan Praktik Kerja Lapangan
 
 ```
 
+## Configurasi
+
+
+```sh
+
+- Untuk Mengganti Judul Pada PDF file Kalian bisa buka 'jurnal.php'
+  >//Jurnal.php
+  >$title = "Jurnal PKL";
+  >$judul = "JURNAL KEGIATAN HARIAN TARUNA";
+  >$kota = "Balikpapan";
+  >$tahun = "2021";
+
+
+```
+
 
 ### **Support authors**:
 
