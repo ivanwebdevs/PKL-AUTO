@@ -18,7 +18,8 @@ Tool Berbasis Web Untuk membuat Laporan Praktik Kerja Lapangan
 
 1. cd /xampp/htdocs (your www path)
 2. git clone https://github.com/ivanwebdevs/PKL-AUTO
-4. edit your php file where you want to put this function ex: require'VanFunction/vanfunction.php'
+4. edit /PKL-AUTO/jurnal.php
+5. Sadar ga sadar di situ gada nomor 3
 
 
 ```
